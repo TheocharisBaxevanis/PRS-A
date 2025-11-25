@@ -1,4 +1,6 @@
 Files Description
+
+
 Bistable_UMAT_multi_Hetv_Mon_I1_dT_PS.for
 Fortran UMAT for the constitutive response of periodic rotating bistable auxetic surfaces regularized with a gradient-enhanced first invariant of the logarithmic strain and an artificial material rate-dependency.
 
